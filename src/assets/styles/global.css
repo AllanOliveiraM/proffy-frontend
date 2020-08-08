@@ -18,7 +18,13 @@
     --color-box-base: #FFFFFF;
     --color-box-footer: #FAFAFC;
 
-    font-size: 60%;
+    font-size: 50%;
+}
+
+@media (max-width: 310px) {
+    :root {
+        font-size: 40%;
+    }
 }
 
 * {
