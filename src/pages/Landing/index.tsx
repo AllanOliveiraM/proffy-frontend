@@ -1,5 +1,7 @@
 import React from "react";
 
+import { Link } from "react-router-dom";
+
 import logoImg from "../../assets/images/logo.svg";
 import landingImg from "../../assets/images/landing.svg";
 
@@ -23,15 +25,15 @@ function Landing() {
         <img src={landingImg} alt={lang.studyPlatform} className="hero-image" />
 
         <div className="buttons-container">
-          <a href="#todo" className="study">
+          <Link to="/study" className="study">
             <img src={studyIcon} alt={lang.studyString} />
             {lang.studyString}
-          </a>
+          </Link>
 
-          <a href="#todo" className="give-classes">
+          <Link to="/give-classes" className="give-classes">
             <img src={giveClassesIcon} alt={lang.giveClasses} />
             {lang.giveClasses}
-          </a>
+          </Link>
         </div>
 
         <span className="total-connections">

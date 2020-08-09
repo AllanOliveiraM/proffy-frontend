@@ -37,6 +37,7 @@ html,
 body,
 #root {
     height: 100vh;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -54,6 +55,7 @@ input,
 button,
 textarea {
     font: 500 1.6rem Poppins;
+    color: var(--color-text-base);
 }
 
 .container {

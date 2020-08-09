@@ -1,4 +1,5 @@
 {
+  "titleProffy": "Proffy",
   "landingSlogan": "Sua plataforma de estudos online.",
   "logoAlt": "Proffy logo",
   "studyPlatform": "Plataforma de estudos",
@@ -6,5 +7,13 @@
   "giveClasses": "Dar aulas",
   "totalOf": "Total de",
   "connectionsReady": "conexões já realizadas",
-  "purpleHeart": "Coração roxo"
+  "purpleHeart": "Coração roxo",
+  "back": "Voltar",
+  "availableProffysTitle": "Estes são os proffys disponíveis.",
+  "awesomeGiveClassesTitle": "Que incrível que você quer dar aulas.",
+  "subject": "Matéria",
+  "weekDay": "Dia da semana",
+  "time": "Hora",
+  "whatsappIconAlt": "Whatsapp",
+  "contactWith": "Entrar em contato"
 }
