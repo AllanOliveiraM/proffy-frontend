@@ -1,4 +1,27 @@
 {
+  "subjectList": [
+    { "value": "Artes", "label": "Artes" },
+    { "value": "Biologia", "label": "Biologia" },
+    { "value": "Ciências", "label": "Ciências" },
+    { "value": "Educação Física", "label": "Educação Física" },
+    { "value": "Física", "label": "Física" },
+    { "value": "Geografia", "label": "Geografia" },
+    { "value": "História", "label": "História" },
+    { "value": "Matemática", "label": "Matemática" },
+    { "value": "Português", "label": "Português" },
+    { "value": "Química", "label": "Química" }
+  ],
+  "dayList": [
+    { "value": "0", "label": "Domingo" },
+    { "value": "1", "label": "Segunda-feira" },
+    { "value": "2", "label": "Terça-feira" },
+    { "value": "3", "label": "Quarta-feira" },
+    { "value": "4", "label": "Quinta-feira" },
+    { "value": "5", "label": "Sexta-feira" },
+    { "value": "6", "label": "Sábado" }
+  ],
+
+
   "titleProffy": "Proffy",
   "landingSlogan": "Sua plataforma de estudos online.",
   "logoAlt": "Proffy logo",
@@ -15,5 +38,20 @@
   "weekDay": "Dia da semana",
   "time": "Hora",
   "whatsappIconAlt": "Whatsapp",
-  "contactWith": "Entrar em contato"
+  "contactWith": "Entrar em contato",
+  "firstStepFormSub": "O primeiro passo é preencher este formulário de inscrição",
+  "fullName": "Nome completo",
+  "avatar": "Avatar",
+  "whatsApp": "WhatsApp",
+  "costPerHour": "Custo da sua hora por aula",
+  "importatntInfo": "Aviso importante",
+  "importantEx": "Importante!",
+  "insertAllData": "Preencha todos os dados",
+  "saveSub": "Salvar Cadastro",
+  "bio": "Biografia",
+  "selectDefault": "Selecione uma opção",
+  "availableTimes": "Horários disponíveis",
+  "plusNewTime": "+ Novo horário",
+  "fromHour": "Das",
+  "toHour": "Até"
 }
